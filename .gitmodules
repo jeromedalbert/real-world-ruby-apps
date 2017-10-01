@@ -1,0 +1,235 @@
+[submodule "apps/whenever"]
+	path = apps/whenever
+	url = git@github.com:javan/whenever.git
+	branch = master
+[submodule "apps/rufus-scheduler"]
+	path = apps/rufus-scheduler
+	url = git@github.com:jmettraux/rufus-scheduler.git
+	branch = master
+[submodule "apps/resque-scheduler"]
+	path = apps/resque-scheduler
+	url = git@github.com:resque/resque-scheduler.git
+	branch = master
+[submodule "apps/clockwork"]
+	path = apps/clockwork
+	url = git@github.com:Rykian/clockwork.git
+	branch = master
+[submodule "apps/foreman"]
+	path = apps/foreman
+	url = git@github.com:ddollar/foreman.git
+	branch = master
+[submodule "apps/resque"]
+	path = apps/resque
+	url = git@github.com:resque/resque.git
+	branch = master
+[submodule "apps/sidekiq"]
+	path = apps/sidekiq
+	url = git@github.com:mperham/sidekiq.git
+	branch = master
+[submodule "apps/rubocop"]
+	path = apps/rubocop
+	url = git@github.com:bbatsov/rubocop.git
+	branch = master
+[submodule "apps/premailer"]
+	path = apps/premailer
+	url = git@github.com:premailer/premailer.git
+	branch = master
+[submodule "apps/roadie"]
+	path = apps/roadie
+	url = git@github.com:Mange/roadie.git
+	branch = master
+[submodule "apps/lolcat"]
+	path = apps/lolcat
+	url = git@github.com:busyloop/lolcat.git
+	branch = master
+[submodule "apps/homebrew"]
+	path = apps/homebrew
+	url = git@github.com:Homebrew/brew.git
+	branch = master
+[submodule "apps/octopress"]
+	path = apps/octopress
+	url = git@github.com:octopress/octopress.git
+	branch = master
+[submodule "apps/jekyll"]
+	path = apps/jekyll
+	url = git@github.com:jekyll/jekyll.git
+	branch = master
+[submodule "apps/middleman"]
+	path = apps/middleman
+	url = git@github.com:middleman/middleman.git
+	branch = master
+[submodule "apps/sass"]
+	path = apps/sass
+	url = git@github.com:sass/sass.git
+	branch = master
+[submodule "apps/pry"]
+	path = apps/pry
+	url = git@github.com:pry/pry.git
+	branch = master
+[submodule "apps/githug"]
+	path = apps/githug
+	url = git@github.com:Gazler/githug.git
+	branch = master
+[submodule "apps/qwandry"]
+	path = apps/qwandry
+	url = git@github.com:adamsanderson/qwandry.git
+	branch = master
+[submodule "apps/dotenv"]
+	path = apps/dotenv
+	url = git@github.com:bkeepers/dotenv.git
+	branch = master
+[submodule "apps/smusher"]
+	path = apps/smusher
+	url = git@github.com:grosser/smusher.git
+	branch = master
+[submodule "apps/ruco"]
+	path = apps/ruco
+	url = git@github.com:grosser/ruco.git
+	branch = master
+[submodule "apps/rake"]
+	path = apps/rake
+	url = git@github.com:ruby/rake.git
+	branch = master
+[submodule "apps/rdoc"]
+	path = apps/rdoc
+	url = git@github.com:ruby/rdoc.git
+	branch = master
+[submodule "apps/rouge"]
+	path = apps/rouge
+	url = git@github.com:jneen/rouge.git
+	branch = master
+[submodule "apps/coderay"]
+	path = apps/coderay
+	url = git@github.com:rubychan/coderay.git
+	branch = master
+[submodule "apps/markup"]
+	path = apps/markup
+	url = git@github.com:github/markup.git
+	branch = master
+[submodule "apps/kramdown"]
+	path = apps/kramdown
+	url = git@github.com:gettalong/kramdown.git
+	branch = master
+[submodule "apps/haml"]
+	path = apps/haml
+	url = git@github.com:haml/haml.git
+	branch = master
+[submodule "apps/reek"]
+	path = apps/reek
+	url = git@github.com:troessner/reek.git
+	branch = master
+[submodule "apps/capistrano"]
+	path = apps/capistrano
+	url = git@github.com:capistrano/capistrano.git
+	branch = master
+[submodule "apps/mina"]
+	path = apps/mina
+	url = git@github.com:mina-deploy/mina.git
+	branch = master
+[submodule "apps/vagrant"]
+	path = apps/vagrant
+	url = git@github.com:hashicorp/vagrant.git
+	branch = master
+[submodule "apps/puppet"]
+	path = apps/puppet
+	url = git@github.com:puppetlabs/puppet.git
+	branch = master
+[submodule "apps/thin"]
+	path = apps/thin
+	url = git@github.com:macournoyer/thin.git
+	branch = master
+[submodule "apps/unicorn"]
+	path = apps/unicorn
+	url = git@github.com:defunkt/unicorn.git
+	branch = master
+[submodule "apps/puma"]
+	path = apps/puma
+	url = git@github.com:puma/puma.git
+	branch = master
+[submodule "apps/chef"]
+	path = apps/chef
+	url = git@github.com:chef/chef.git
+	branch = master
+[submodule "apps/brakeman"]
+	path = apps/brakeman
+	url = git@github.com:presidentbeef/brakeman.git
+	branch = master
+[submodule "apps/geocoder"]
+	path = apps/geocoder
+	url = git@github.com:alexreisner/geocoder.git
+	branch = master
+[submodule "apps/tmuxinator"]
+	path = apps/tmuxinator
+	url = git@github.com:tmuxinator/tmuxinator.git
+	branch = master
+[submodule "apps/colorls"]
+	path = apps/colorls
+	url = git@github.com:athityakumar/colorls.git
+	branch = master
+[submodule "apps/image_optim"]
+	path = apps/image_optim
+	url = git@github.com:toy/image_optim.git
+	branch = master
+[submodule "apps/github-changelog-generator"]
+	path = apps/github-changelog-generator
+	url = git@github.com:skywinder/github-changelog-generator.git
+	branch = master
+[submodule "apps/ruby-warrior"]
+	path = apps/ruby-warrior
+	url = git@github.com:ryanb/ruby-warrior.git
+	branch = master
+[submodule "apps/optcarrot"]
+	path = apps/optcarrot
+	url = git@github.com:mame/optcarrot.git
+	branch = master
+[submodule "apps/procodile"]
+	path = apps/procodile
+	url = git@github.com:adamcooke/procodile.git
+	branch = master
+[submodule "apps/pru"]
+	path = apps/pru
+	url = git@github.com:grosser/pru.git
+	branch = master
+[submodule "apps/termit"]
+	path = apps/termit
+	url = git@github.com:pawurb/termit.git
+	branch = master
+[submodule "apps/friends"]
+	path = apps/friends
+	url = git@github.com:JacobEvelyn/friends.git
+	branch = master
+[submodule "apps/whois"]
+	path = apps/whois
+	url = git@github.com:weppos/whois.git
+	branch = master
+[submodule "apps/htty"]
+	path = apps/htty
+	url = git@github.com:htty/htty.git
+	branch = master
+[submodule "apps/word-to-markdown"]
+	path = apps/word-to-markdown
+	url = git@github.com:benbalter/word-to-markdown.git
+	branch = master
+[submodule "apps/reverse_markdown"]
+	path = apps/reverse_markdown
+	url = git@github.com:xijo/reverse_markdown.git
+	branch = master
+[submodule "apps/beats"]
+	path = apps/beats
+	url = git@github.com:jstrait/beats.git
+	branch = master
+[submodule "apps/catpix"]
+	path = apps/catpix
+	url = git@github.com:pazdera/catpix.git
+	branch = master
+[submodule "apps/hue"]
+	path = apps/hue
+	url = git@github.com:soffes/hue.git
+	branch = master
+[submodule "apps/cowsay"]
+	path = apps/cowsay
+	url = git@github.com:johnnyt/cowsay.git
+	branch = master
+[submodule "apps/ruby-fighter"]
+	path = apps/ruby-fighter
+	url = git@github.com:MadRabbit/ruby-fighter.git
