@@ -233,3 +233,6 @@
 [submodule "apps/ruby-fighter"]
 	path = apps/ruby-fighter
 	url = git@github.com:MadRabbit/ruby-fighter.git
+[submodule "apps/bundler"]
+	path = apps/bundler
+	url = git@github.com:bundler/bundler.git
