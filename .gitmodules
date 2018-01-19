@@ -236,3 +236,7 @@
 [submodule "apps/bundler"]
 	path = apps/bundler
 	url = git@github.com:bundler/bundler.git
+[submodule "apps/t"]
+	path = apps/t
+	url = git@github.com:sferik/t.git
+	branch = master
