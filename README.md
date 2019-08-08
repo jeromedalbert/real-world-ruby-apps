@@ -22,7 +22,7 @@ cd real-world-ruby-apps/
 
 # The apps are linked to as git submodules.
 # This will take some time...
-git submodule update --init
+git submodule update --init --remote --merge
 ```
 
 ## Other Real World codebase collections
