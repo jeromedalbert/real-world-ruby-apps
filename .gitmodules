@@ -240,3 +240,7 @@
 	path = apps/t
 	url = git@github.com:sferik/t.git
 	branch = master
+[submodule "apps/CocoaPods"]
+	path = apps/CocoaPods
+	url = git@github.com:CocoaPods/CocoaPods.git
+	branch = master
