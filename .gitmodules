@@ -244,3 +244,7 @@
 	path = apps/CocoaPods
 	url = git@github.com:CocoaPods/CocoaPods.git
 	branch = master
+[submodule "apps/youplot"]
+	path = apps/youplot
+	url = git@github.com:red-data-tools/YouPlot.git
+	branch = main
