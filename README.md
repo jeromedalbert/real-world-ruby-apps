@@ -5,9 +5,9 @@
 You'll find the source code in the [`apps/`](apps/) subdirectory. These apps
 are:
 
+- Executable via the command line
 - Not based on any framework (see [other
   repos](#other-real-world-codebase-collections) for Rails, Sinatra, etc.)
-- Executable via the command line
 
 Thank you to every developer who has worked on a project this repo links to,
 your work is helping developers learn Ruby.
