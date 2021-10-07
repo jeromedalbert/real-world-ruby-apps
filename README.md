@@ -34,6 +34,7 @@ git submodule update --init
 - Real World Sinatra https://github.com/jeromedalbert/real-world-sinatra
 - Real World Ember https://github.com/eliotsykes/real-world-ember
 - Real World React Apps https://github.com/jeromedalbert/real-world-react-apps
+- Real World RSpec https://github.com/pirj/real-world-rspec
 - Know any others? Please open a PR and add the link here
 
 ## Information for contributors
