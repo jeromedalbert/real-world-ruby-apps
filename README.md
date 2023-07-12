@@ -35,6 +35,7 @@ git submodule update --init
 - Real World Ember https://github.com/eliotsykes/real-world-ember
 - Real World React Apps https://github.com/jeromedalbert/real-world-react-apps
 - Real World RSpec https://github.com/pirj/real-world-rspec
+- Real World Django https://github.com/ckrybus/real-world-django
 - Know any others? Please open a PR and add the link here
 
 ## Information for contributors
