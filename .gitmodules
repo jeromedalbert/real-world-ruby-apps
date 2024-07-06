@@ -46,10 +46,6 @@
 	path = apps/homebrew
 	url = git@github.com:Homebrew/brew.git
 	branch = master
-[submodule "apps/octopress"]
-	path = apps/octopress
-	url = git@github.com:octopress/octopress.git
-	branch = master
 [submodule "apps/jekyll"]
 	path = apps/jekyll
 	url = git@github.com:jekyll/jekyll.git
@@ -66,18 +62,10 @@
 	path = apps/githug
 	url = git@github.com:Gazler/githug.git
 	branch = master
-[submodule "apps/qwandry"]
-	path = apps/qwandry
-	url = git@github.com:adamsanderson/qwandry.git
-	branch = master
 [submodule "apps/dotenv"]
 	path = apps/dotenv
 	url = git@github.com:bkeepers/dotenv.git
 	branch = main
-[submodule "apps/smusher"]
-	path = apps/smusher
-	url = git@github.com:grosser/smusher.git
-	branch = master
 [submodule "apps/ruco"]
 	path = apps/ruco
 	url = git@github.com:grosser/ruco.git
@@ -186,10 +174,6 @@
 	path = apps/pru
 	url = git@github.com:grosser/pru.git
 	branch = master
-[submodule "apps/termit"]
-	path = apps/termit
-	url = git@github.com:pawurb/termit.git
-	branch = master
 [submodule "apps/friends"]
 	path = apps/friends
 	url = git@github.com:JacobEvelyn/friends.git
@@ -214,10 +198,6 @@
 	path = apps/beats
 	url = git@github.com:jstrait/beats.git
 	branch = master
-[submodule "apps/catpix"]
-	path = apps/catpix
-	url = git@github.com:pazdera/catpix.git
-	branch = master
 [submodule "apps/hue"]
 	path = apps/hue
 	url = git@github.com:soffes/hue.git
@@ -226,9 +206,6 @@
 	path = apps/cowsay
 	url = git@github.com:johnnyt/cowsay.git
 	branch = master
-[submodule "apps/ruby-fighter"]
-	path = apps/ruby-fighter
-	url = git@github.com:kaievns/ruby-fighter.git
 [submodule "apps/t"]
 	path = apps/t
 	url = git@github.com:sferik/t.git
