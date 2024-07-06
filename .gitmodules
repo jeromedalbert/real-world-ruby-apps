@@ -1,7 +1,7 @@
 [submodule "apps/whenever"]
 	path = apps/whenever
 	url = git@github.com:javan/whenever.git
-	branch = master
+	branch = main
 [submodule "apps/rufus-scheduler"]
 	path = apps/rufus-scheduler
 	url = git@github.com:jmettraux/rufus-scheduler.git
@@ -17,18 +17,18 @@
 [submodule "apps/foreman"]
 	path = apps/foreman
 	url = git@github.com:ddollar/foreman.git
-	branch = master
+	branch = main
 [submodule "apps/resque"]
 	path = apps/resque
 	url = git@github.com:resque/resque.git
 	branch = master
 [submodule "apps/sidekiq"]
 	path = apps/sidekiq
-	url = git@github.com:mperham/sidekiq.git
-	branch = master
+	url = git@github.com:sidekiq/sidekiq.git
+	branch = main
 [submodule "apps/rubocop"]
 	path = apps/rubocop
-	url = git@github.com:bbatsov/rubocop.git
+	url = git@github.com:rubocop/rubocop.git
 	branch = master
 [submodule "apps/premailer"]
 	path = apps/premailer
@@ -57,11 +57,7 @@
 [submodule "apps/middleman"]
 	path = apps/middleman
 	url = git@github.com:middleman/middleman.git
-	branch = master
-[submodule "apps/sass"]
-	path = apps/sass
-	url = git@github.com:sass/sass.git
-	branch = master
+	branch = main
 [submodule "apps/pry"]
 	path = apps/pry
 	url = git@github.com:pry/pry.git
@@ -77,7 +73,7 @@
 [submodule "apps/dotenv"]
 	path = apps/dotenv
 	url = git@github.com:bkeepers/dotenv.git
-	branch = master
+	branch = main
 [submodule "apps/smusher"]
 	path = apps/smusher
 	url = git@github.com:grosser/smusher.git
@@ -96,7 +92,7 @@
 	branch = master
 [submodule "apps/rouge"]
 	path = apps/rouge
-	url = git@github.com:jneen/rouge.git
+	url = git@github.com:rouge-ruby/rouge.git
 	branch = master
 [submodule "apps/coderay"]
 	path = apps/coderay
@@ -129,11 +125,11 @@
 [submodule "apps/vagrant"]
 	path = apps/vagrant
 	url = git@github.com:hashicorp/vagrant.git
-	branch = master
+	branch = main
 [submodule "apps/puppet"]
 	path = apps/puppet
 	url = git@github.com:puppetlabs/puppet.git
-	branch = master
+	branch = main
 [submodule "apps/thin"]
 	path = apps/thin
 	url = git@github.com:macournoyer/thin.git
@@ -149,11 +145,11 @@
 [submodule "apps/chef"]
 	path = apps/chef
 	url = git@github.com:chef/chef.git
-	branch = master
+	branch = main
 [submodule "apps/brakeman"]
 	path = apps/brakeman
 	url = git@github.com:presidentbeef/brakeman.git
-	branch = master
+	branch = main
 [submodule "apps/geocoder"]
 	path = apps/geocoder
 	url = git@github.com:alexreisner/geocoder.git
@@ -165,14 +161,14 @@
 [submodule "apps/colorls"]
 	path = apps/colorls
 	url = git@github.com:athityakumar/colorls.git
-	branch = master
+	branch = main
 [submodule "apps/image_optim"]
 	path = apps/image_optim
 	url = git@github.com:toy/image_optim.git
-	branch = master
+	branch = main
 [submodule "apps/github-changelog-generator"]
 	path = apps/github-changelog-generator
-	url = git@github.com:skywinder/github-changelog-generator.git
+	url = git@github.com:github-changelog-generator/github-changelog-generator.git
 	branch = master
 [submodule "apps/ruby-warrior"]
 	path = apps/ruby-warrior
@@ -197,19 +193,19 @@
 [submodule "apps/friends"]
 	path = apps/friends
 	url = git@github.com:JacobEvelyn/friends.git
-	branch = master
+	branch = main
 [submodule "apps/whois"]
 	path = apps/whois
 	url = git@github.com:weppos/whois.git
-	branch = master
+	branch = main
 [submodule "apps/htty"]
 	path = apps/htty
 	url = git@github.com:htty/htty.git
-	branch = master
+	branch = main
 [submodule "apps/word-to-markdown"]
 	path = apps/word-to-markdown
 	url = git@github.com:benbalter/word-to-markdown.git
-	branch = master
+	branch = main
 [submodule "apps/reverse_markdown"]
 	path = apps/reverse_markdown
 	url = git@github.com:xijo/reverse_markdown.git
@@ -225,17 +221,14 @@
 [submodule "apps/hue"]
 	path = apps/hue
 	url = git@github.com:soffes/hue.git
-	branch = master
+	branch = main
 [submodule "apps/cowsay"]
 	path = apps/cowsay
 	url = git@github.com:johnnyt/cowsay.git
 	branch = master
 [submodule "apps/ruby-fighter"]
 	path = apps/ruby-fighter
-	url = git@github.com:MadRabbit/ruby-fighter.git
-[submodule "apps/bundler"]
-	path = apps/bundler
-	url = git@github.com:bundler/bundler.git
+	url = git@github.com:kaievns/ruby-fighter.git
 [submodule "apps/t"]
 	path = apps/t
 	url = git@github.com:sferik/t.git
@@ -252,3 +245,11 @@
 	path = apps/licensee
 	url = git@github.com:licensee/licensee.git
 	branch = main
+[submodule "apps/rubygems"]
+	path = apps/rubygems
+	url = git@github.com:rubygems/rubygems.git
+	branch = master
+[submodule "apps/t-ruby"]
+	path = apps/t-ruby
+	url = git@github.com:sferik/t-ruby.git
+	branch = master
