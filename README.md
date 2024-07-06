@@ -21,7 +21,7 @@ git clone git@github.com:jeromedalbert/real-world-ruby-apps.git
 cd real-world-ruby-apps/
 
 # The apps are linked to as git submodules.
-# This will take some time... (see comment below for possible speedup)
+# This will take some time...
 git submodule update --init --single-branch --jobs 4
 ```
 
@@ -29,10 +29,9 @@ git submodule update --init --single-branch --jobs 4
 
 - Real World Rails https://github.com/eliotsykes/real-world-rails
 - Real World Sinatra https://github.com/jeromedalbert/real-world-sinatra
-- Real World Ember https://github.com/eliotsykes/real-world-ember
-- Real World React Apps https://github.com/jeromedalbert/real-world-react-apps
 - Real World RSpec https://github.com/pirj/real-world-rspec
 - Real World Django https://github.com/ckrybus/real-world-django
+- Real World Phoenix https://github.com/szTheory/real-world-phoenix
 - Know any others? Please open a PR and add the link here
 
 ## Information for contributors
@@ -55,7 +54,8 @@ Given a GitHub repo for an app `githubuser/foo`:
 
 ```bash
 # Inside the project root:
-git submodule add -b master git@github.com:githubuser/foo.git apps/foo
+# Replace <DEFAULT_BRANCH> with correct branch (probably 'main').
+git submodule add -b <DEFAULT_BRANCH> git@github.com:githubuser/foo.git apps/foo
 ```
 
 #### Updating the apps submodules to latest
@@ -67,7 +67,7 @@ To update the revisions, run:
 
 ```bash
 # This will take some time:
-git submodule foreach git pull origin master
+git submodule update --remote --single-branch --jobs 4
 ```
 
 ---
