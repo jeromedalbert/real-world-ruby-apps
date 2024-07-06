@@ -248,3 +248,7 @@
 	path = apps/youplot
 	url = git@github.com:red-data-tools/YouPlot.git
 	branch = main
+[submodule "apps/licensee"]
+	path = apps/licensee
+	url = git@github.com:licensee/licensee.git
+	branch = main
