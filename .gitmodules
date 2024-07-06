@@ -109,7 +109,7 @@
 [submodule "apps/haml"]
 	path = apps/haml
 	url = git@github.com:haml/haml.git
-	branch = master
+	branch = main
 [submodule "apps/reek"]
 	path = apps/reek
 	url = git@github.com:troessner/reek.git
