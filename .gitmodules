@@ -282,3 +282,7 @@
 	path = apps/bashly
 	url = git@github.com:DannyBen/bashly.git
 	branch = master
+[submodule "apps/WhatWeb"]
+	path = apps/WhatWeb
+	url = git@github.com:urbanadventurer/WhatWeb.git
+	branch = master
