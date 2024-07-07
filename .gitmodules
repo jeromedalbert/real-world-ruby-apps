@@ -290,3 +290,7 @@
 	path = apps/doomfire
 	url = git@github.com:marcinruszkiewicz/doomfire.git
 	branch = master
+[submodule "apps/fpm"]
+	path = apps/fpm
+	url = git@github.com:jordansissel/fpm.git
+	branch = main
