@@ -274,3 +274,7 @@
 	path = apps/standard
 	url = git@github.com:standardrb/standard.git
 	branch = main
+[submodule "apps/asciidoctor"]
+	path = apps/asciidoctor
+	url = git@github.com:asciidoctor/asciidoctor.git
+	branch = main
