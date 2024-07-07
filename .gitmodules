@@ -250,3 +250,7 @@
 	path = apps/rbtrace
 	url = git@github.com:tmm1/rbtrace.git
 	branch = master
+[submodule "apps/linguist"]
+	path = apps/linguist
+	url = git@github.com:github-linguist/linguist.git
+	branch = master
