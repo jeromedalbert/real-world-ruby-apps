@@ -230,10 +230,6 @@
 	path = apps/t-ruby
 	url = git@github.com:sferik/t-ruby.git
 	branch = master
-[submodule "apps/whatweb"]
-	path = apps/whatweb
-	url = git@github.com:urbanadventurer/WhatWeb.git
-	branch = master
 [submodule "apps/docsplit"]
 	path = apps/docsplit
 	url = git@github.com:documentcloud/docsplit.git
