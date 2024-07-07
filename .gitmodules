@@ -262,3 +262,7 @@
 	path = apps/gist
 	url = git@github.com:defunkt/gist.git
 	branch = master
+[submodule "apps/LicenseFinder"]
+	path = apps/LicenseFinder
+	url = git@github.com:pivotal/LicenseFinder.git
+	branch = master
