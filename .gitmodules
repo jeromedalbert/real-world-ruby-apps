@@ -270,3 +270,7 @@
 	path = apps/ronn
 	url = git@github.com:rtomayko/ronn.git
 	branch = master
+[submodule "apps/standard"]
+	path = apps/standard
+	url = git@github.com:standardrb/standard.git
+	branch = main
