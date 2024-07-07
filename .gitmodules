@@ -258,3 +258,7 @@
 	path = apps/mdless
 	url = git@github.com:ttscoff/mdless.git
 	branch = develop
+[submodule "apps/gist"]
+	path = apps/gist
+	url = git@github.com:defunkt/gist.git
+	branch = master
