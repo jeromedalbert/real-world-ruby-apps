@@ -254,3 +254,7 @@
 	path = apps/linguist
 	url = git@github.com:github-linguist/linguist.git
 	branch = master
+[submodule "apps/mdless"]
+	path = apps/mdless
+	url = git@github.com:ttscoff/mdless.git
+	branch = develop
