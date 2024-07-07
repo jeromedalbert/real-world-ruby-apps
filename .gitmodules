@@ -282,3 +282,7 @@
 	path = apps/syntax_tree
 	url = git@github.com:ruby-syntax-tree/syntax_tree.git
 	branch = main
+[submodule "apps/bashly"]
+	path = apps/bashly
+	url = git@github.com:DannyBen/bashly.git
+	branch = master
