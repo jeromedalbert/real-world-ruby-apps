@@ -310,3 +310,7 @@
 	path = apps/git_curate
 	url = git@github.com:matt-harvey/git_curate.git
 	branch = master
+[submodule "apps/gemsmith"]
+	path = apps/gemsmith
+	url = git@github.com:bkuhlmann/gemsmith.git
+	branch = main
