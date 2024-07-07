@@ -278,3 +278,7 @@
 	path = apps/asciidoctor
 	url = git@github.com:asciidoctor/asciidoctor.git
 	branch = main
+[submodule "apps/syntax_tree"]
+	path = apps/syntax_tree
+	url = git@github.com:ruby-syntax-tree/syntax_tree.git
+	branch = main
