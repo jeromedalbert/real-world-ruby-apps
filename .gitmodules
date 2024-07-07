@@ -286,3 +286,7 @@
 	path = apps/WhatWeb
 	url = git@github.com:urbanadventurer/WhatWeb.git
 	branch = master
+[submodule "apps/doomfire"]
+	path = apps/doomfire
+	url = git@github.com:marcinruszkiewicz/doomfire.git
+	branch = master
