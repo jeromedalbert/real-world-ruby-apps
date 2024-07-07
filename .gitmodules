@@ -298,3 +298,7 @@
 	path = apps/git-fame-rb
 	url = git@github.com:oleander/git-fame-rb.git
 	branch = main
+[submodule "apps/textbringer"]
+	path = apps/textbringer
+	url = git@github.com:shugo/textbringer.git
+	branch = main
