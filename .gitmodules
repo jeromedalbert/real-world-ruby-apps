@@ -242,3 +242,7 @@
 	path = apps/haiti
 	url = git@github.com:noraj/haiti.git
 	branch = master
+[submodule "apps/yard"]
+	path = apps/yard
+	url = git@github.com:lsegal/yard.git
+	branch = main
