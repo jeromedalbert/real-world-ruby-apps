@@ -294,3 +294,7 @@
 	path = apps/fpm
 	url = git@github.com:jordansissel/fpm.git
 	branch = main
+[submodule "apps/git-fame-rb"]
+	path = apps/git-fame-rb
+	url = git@github.com:oleander/git-fame-rb.git
+	branch = main
