@@ -306,3 +306,7 @@
 	path = apps/httpclient
 	url = git@github.com:nahi/httpclient.git
 	branch = master
+[submodule "apps/git_curate"]
+	path = apps/git_curate
+	url = git@github.com:matt-harvey/git_curate.git
+	branch = master
