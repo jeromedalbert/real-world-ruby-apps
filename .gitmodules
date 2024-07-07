@@ -246,3 +246,7 @@
 	path = apps/yard
 	url = git@github.com:lsegal/yard.git
 	branch = main
+[submodule "apps/rbtrace"]
+	path = apps/rbtrace
+	url = git@github.com:tmm1/rbtrace.git
+	branch = master
