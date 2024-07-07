@@ -302,3 +302,7 @@
 	path = apps/textbringer
 	url = git@github.com:shugo/textbringer.git
 	branch = main
+[submodule "apps/httpclient"]
+	path = apps/httpclient
+	url = git@github.com:nahi/httpclient.git
+	branch = master
