@@ -314,3 +314,7 @@
 	path = apps/gemsmith
 	url = git@github.com:bkuhlmann/gemsmith.git
 	branch = main
+[submodule "apps/kamal"]
+	path = apps/kamal
+	url = git@github.com:basecamp/kamal.git
+	branch = main
