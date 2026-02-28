@@ -74,6 +74,6 @@ git submodule update --remote --single-branch --jobs 4
 
 # Contributors
 
-- Jerome Dalbert http://jeromedalbert.com
+- Jerome Dalbert https://jeromedalbert.com
 - Contributions are welcome, fork the GitHub repo, make your changes, then
   submit your pull request! Reach out if you'd like some help.
