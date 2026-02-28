@@ -78,10 +78,6 @@
 	path = apps/rdoc
 	url = git@github.com:ruby/rdoc.git
 	branch = master
-[submodule "apps/rouge"]
-	path = apps/rouge
-	url = git@github.com:rouge-ruby/rouge.git
-	branch = master
 [submodule "apps/coderay"]
 	path = apps/coderay
 	url = git@github.com:rubychan/coderay.git
@@ -125,10 +121,6 @@
 [submodule "apps/unicorn"]
 	path = apps/unicorn
 	url = git@github.com:defunkt/unicorn.git
-	branch = master
-[submodule "apps/puma"]
-	path = apps/puma
-	url = git@github.com:puma/puma.git
 	branch = master
 [submodule "apps/chef"]
 	path = apps/chef
@@ -246,10 +238,6 @@
 	path = apps/rbtrace
 	url = git@github.com:tmm1/rbtrace.git
 	branch = master
-[submodule "apps/linguist"]
-	path = apps/linguist
-	url = git@github.com:github-linguist/linguist.git
-	branch = master
 [submodule "apps/mdless"]
 	path = apps/mdless
 	url = git@github.com:ttscoff/mdless.git
@@ -313,6 +301,18 @@
 [submodule "apps/gemsmith"]
 	path = apps/gemsmith
 	url = git@github.com:bkuhlmann/gemsmith.git
+	branch = main
+[submodule "apps/puma"]
+	path = apps/puma
+	url = git@github.com:puma/puma.git
+	branch = main
+[submodule "apps/linguist"]
+	path = apps/linguist
+	url = git@github.com:github-linguist/linguist.git
+	branch = main
+[submodule "apps/rouge"]
+	path = apps/rouge
+	url = git@github.com:rouge-ruby/rouge.git
 	branch = main
 [submodule "apps/kamal"]
 	path = apps/kamal
