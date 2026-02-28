@@ -318,3 +318,7 @@
 	path = apps/kamal
 	url = git@github.com:basecamp/kamal.git
 	branch = main
+[submodule "apps/wp2txt"]
+	path = apps/wp2txt
+	url = git@github.com:yohasebe/wp2txt.git
+	branch = master
